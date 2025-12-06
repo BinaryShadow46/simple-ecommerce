@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "description": "Premium wireless headphones with noise cancellation",
+            "price": 199.99,
+            "category": "electronics",
+            "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "name": "Smart Watch",
+            "description": "Fitness tracker with heart rate monitor",
+            "price": 249.99,
+            "category": "electronics",
+            "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "name": "Cotton T-Shirt",
+            "description": "100% cotton premium t-shirt",
+            "price": 29.99,
+            "category": "clothing",
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=400&fit=crop",
+            "featured": true
+        },
+        {
+            "id": 4,
+            "name": "JavaScript Book",
+            "description": "Complete guide to modern JavaScript",
+            "price": 39.99,
+            "category": "books",
+            "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop",
+            "featured": false
+        },
+        {
+            "id": 5,
+            "name": "Laptop Backpack",
+            "description": "Water-resistant backpack for laptops up to 15\"",
+            "price": 59.99,
+            "category": "electronics",
+            "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "name": "Coffee Mug",
+            "description": "Ceramic coffee mug with premium finish",
+            "price": 19.99,
+            "category": "home",
+            "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=400&h=400&fit=crop",
+            "featured": false
+        },
+        {
+            "id": 7,
+            "name": "Yoga Mat",
+            "description": "Non-slip premium yoga mat",
+            "price": 34.99,
+            "category": "fitness",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400&h=400&fit=crop",
+            "featured": false
+        },
+        {
+            "id": 8,
+            "name": "Desk Lamp",
+            "description": "LED desk lamp with adjustable brightness",
+            "price": 49.99,
+            "category": "home",
+            "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&h=400&fit=crop",
+            "featured": false
+        }
+    ]
+}
